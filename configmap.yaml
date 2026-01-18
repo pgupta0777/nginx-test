@@ -7,7 +7,7 @@ data:
     <html>
     <head><title>NGINX V1</title></head>
     <body>
-      <h1>🚀 NGINX VERSION 1</h1>
+      <h1>🚀 this pradeep gupta</h1>
       <p>Image: nginx:latest</p>
       <p>Deployed via Argo CD</p>
     </body>
